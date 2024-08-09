@@ -17,9 +17,6 @@ I'm a CS student passionate about security and open source projects. Happy to gi
 ![](https://github-readme-streak-stats.herokuapp.com/?user=headphonedent&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=headphonedent&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# Test
-![Alt](https://repobeats.axiom.co/api/embed/08185ff03b6aa3e5b22334f8d353e214e2ff428b.svg "Repobeats analytics image")
-
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=headphonedent&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
