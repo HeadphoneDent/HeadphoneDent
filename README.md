@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=585CFF&center=true&vCenter=true&random=false&width=280&height=30&lines=Hi%2C+I'm+Nic+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1500&pause=1000&color=585CFF&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+HeadphoneDent+%F0%9F%91%8B;currently%3A+playing+HackTheBox;should+be%3A+studying+for+an+exam;about+to%3A+commit+some+shenanigans)](https://git.io/typing-svg)
 
 [![](https://visitcount.itsvg.in/api?id=gl1tchgh0st&label=Profile%20Views&color=12&pretty=true&icon=2)](https://visitcount.itsvg.in)
 
