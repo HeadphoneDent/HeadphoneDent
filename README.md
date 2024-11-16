@@ -4,7 +4,7 @@
 
 ## 💫 About Me:
 I'm a CS student passionate about security and open source projects. Happy to give a hand or get hired 😅<br>
-🔭 I'm currently working through HackTheBox Academy<br>👯 I'm looking to collaborate on practical projects<br>🌱 I'm currently learning Privilege Escalation<br>💬 Ask me about my daily driver (Arch btw)<br>🌐 See more on my [website](https://nicholasheinrich.tech)
+🔭 I'm currently working through HackTheBox Academy<br>👯 I'm looking to collaborate on practical projects<br>🌱 I'm currently learning Privilege Escalation<br>🌐 See more on my [website](https://nicholasheinrich.tech)
 
 ## 💻 Technologies:
 [![My Skills](https://skillicons.dev/icons?i=linux,obsidian,bash,python,java,cpp,html,css,js)](https://skillicons.dev)
@@ -20,6 +20,3 @@ I'm a CS student passionate about security and open source projects. Happy to gi
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-## 💰 Support Me
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/HeadphoneDent) 
