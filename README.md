@@ -7,11 +7,13 @@ I'm a CS student passionate about security and open source projects. Happy to gi
 🔭 I'm currently working through HackTheBox Academy<br>👯 I'm looking to collaborate on practical projects<br>🌱 I'm currently learning Privilege Escalation<br>🌐 See more on my [website](https://nicholasheinrich.tech)
 
 ## 💻 Technologies:
-[![My Skills](https://skillicons.dev/icons?i=linux,obsidian,bash,python,java,cpp,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,python,java,cpp,html,css,js)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=headphonedent&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=headphonedent&theme=dark&hide_border=false)<br/>
+-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=headphonedent&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Additional repo pins
