@@ -10,7 +10,8 @@ I'm a CS student passionate about security and open source projects. Happy to gi
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,python,java,cpp,html,css,js)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=headphonedent&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=headphonedent&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+-->
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=headphonedent&theme=dark&hide_border=false)<br/>
 -->
