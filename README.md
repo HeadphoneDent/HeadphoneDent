@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=24&duration=1500&pause=1000&color=585CFF&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+HeadphoneDent+%F0%9F%91%8B;currently%3A+celebrating+after+exams;should+be%3A+studying+cybersecurity;to-do%3A+commit+some+shenanigans)](https://git.io/typing-svg)
 
-[![](https://visitcount.itsvg.in/api?id=gl1tchgh0st&label=Profile%20Views&color=12&pretty=true&icon=2)](https://visitcount.itsvg.in)
+<!-- 
+[![](https://visitcount.itsvg.in/api?id=gl1tchgh0st&label=Profile%20Views&color=12&pretty=true&icon=2)](https://visitcount.itsvg.in) 
+-->
 
 ## 💫 About Me:
 I'm a CS student passionate about security and open source projects. Happy to give a hand or get hired 😅<br>
