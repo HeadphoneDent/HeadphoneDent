@@ -5,7 +5,7 @@
 -->
 
 ## 💫 About Me:
-I'm a sybersecurity student passionate about infosec and open source projects. Happy to give a hand or get hired 😅
+I'm a cybersecurity student passionate about infosec and open source projects. Happy to give a hand or get hired 😅
 <br>🔭 I'm currently working through HackTheBox Academy
 <br>👯 I'm looking to collaborate on practical projects
 <br>🌱 I'm currently learning Privilege Escalation
