@@ -5,11 +5,14 @@
 -->
 
 ## 💫 About Me:
-I'm a CS student passionate about security and open source projects. Happy to give a hand or get hired 😅<br>
-🔭 I'm currently working through HackTheBox Academy<br>👯 I'm looking to collaborate on practical projects<br>🌱 I'm currently learning Privilege Escalation<br>🌐 See more on my [website](https://HeadphoneDent.systems)
+I'm a sybersecurity student passionate about infosec and open source projects. Happy to give a hand or get hired 😅
+<br>🔭 I'm currently working through HackTheBox Academy
+<br>👯 I'm looking to collaborate on practical projects
+<br>🌱 I'm currently learning Privilege Escalation
+<br>🌐 See more on my [website](https://HeadphoneDent.systems)
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,python,java,cpp,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,python,java,cpp,html,css,js,unreal,obsidian)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 <!--![](https://github-readme-stats.vercel.app/api?username=headphonedent&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
