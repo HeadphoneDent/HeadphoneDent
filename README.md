@@ -12,10 +12,10 @@ I'm a cybersecurity student passionate about infosec and open source projects. H
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,python,java,cpp,html,css,js,unreal,obsidian)](https://skillicons.dev)
 
-## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=headphonedent&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=headphonedent&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=headphonedent&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=HeadphoneDent&theme=blue_navy&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=HeadphoneDent&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HeadphoneDent&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Additional repo pins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=headphonedent&repo=Echo&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats) 
