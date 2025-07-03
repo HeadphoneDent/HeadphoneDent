@@ -6,6 +6,9 @@ I'm a cybersecurity student passionate about infosec and open source projects. H
 <br>🌱 I'm currently learning Privilege Escalation
 <br>🌐 See more information on my [website](https://HeadphoneDent.systems)
 
+## ✍️ Quote
+*The struggle itself towards heights is enough to fill a man's heart* - Albert Camus
+
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=linux,bash,python,java,cpp,html,css,js,unreal,obsidian)](https://skillicons.dev)
 
@@ -18,5 +21,7 @@ I'm a cybersecurity student passionate about infosec and open source projects. H
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=headphonedent&repo=Echo&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats) 
 -->
 
+<!--
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+-->
