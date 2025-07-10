@@ -10,7 +10,7 @@ I'm a cybersecurity student passionate about infosec and open source projects.
 *The struggle itself towards heights is enough to fill a man's heart* - Albert Camus
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,python,java,cpp,html,css,js,unreal,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,python,java,obsidian,unreal,cpp,html,css,js)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=HeadphoneDent&theme=blue_navy&hide_border=true)<br/>
